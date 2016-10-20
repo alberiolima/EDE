@@ -1,0 +1,6 @@
+{
+  "name": "EDE",
+  "tagline": "Extra Drop-rate Editor for a MMORPG game, Perfect World",
+  "body": "### Welcome to EDE\r\nEDE is a full blown editor of the server file that is responsible for the drop from monsters in a MMORPG game Perfect World.\r\n\r\n### Edit&Create\r\nEDE is not just an editor, it can also create new files from scratch.\r\n\r\n### 100% Correct\r\nEDE will preserve the floating point precision and all other data of the original file. Saving over original file or as new will produce identical file to the byte. EDE is also able to correct some of the errors of the original file as well.\r\n\r\n### Additional Info\r\nEDE provides additional info that will immensely help adjusting the drop rates of the items.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
